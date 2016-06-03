@@ -4,7 +4,6 @@
 # Full Title: wifi.sh
 #
 # Created By: Javier Faustino
-# Modified By: James Fischer
 # Original Date: 04-02-2016
 # Modified Date: 06-03-2016
 # Description: Code to enable wifi settings for CentOS Laptops
