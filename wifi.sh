@@ -13,6 +13,7 @@
 #
 # ------------------------------ INSTRUCTIONS -------------------------------------
 
+
 # Checks if rpm is installed if not then it installs the rpm command
 #program="rpm"
 #condition=$(which $program 2>/dev/null | grep -v "not found" wc -1)
@@ -32,6 +33,7 @@
 #    echo "DONE: rpm file has been downloaded."
 #fi
 
+#if [ $1 -eq -n]
 # Installs the rpm downloaded
 #echo "Proceed with the installation Y or N." 
 #read reply
@@ -48,6 +50,7 @@
  #   else
 #	echo "Skipping installation"
  #   fi
+#fi
 #fi
 while true {
 do
